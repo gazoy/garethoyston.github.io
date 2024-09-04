@@ -83,6 +83,18 @@ work:
       - Coding web application
       - Marketing
       - Content Creation
+  
+  - position: Electrical Engineer
+    company_name: Various clients
+    #company_url: 'www.internationalphysicsteacher.com'
+    #company_url: 'www.cryptotradingschool.io'
+    #company_logo: ''
+    date_start: 2003-01-01
+    date_end: 2017-12-15
+    summary: |
+      Responsibilities include:
+      - Project / Risk / People management
+      - Fault finding / commissioning
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
