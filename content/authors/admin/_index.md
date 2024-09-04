@@ -50,7 +50,7 @@ education:
 
   - area: MSc Electrical Power Engineering
     institution: University of Bath
-    date_end: 2020-08-31
+    date_end: 2016-08-31
     summary: |
       Project was on the Energy Hub theory applied to the universities campus
 
