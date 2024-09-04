@@ -52,7 +52,7 @@ education:
     institution: University of Bath
     date_end: 2016-08-31
     summary: |
-      Project was on the Energy Hub theory applied to the universities campus
+      Project was the Energy Hub theory applied to the universities campus
 
   - area: BEng(hons) Electrical Power Systems Engineering
     institution: Aston University
