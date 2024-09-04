@@ -77,7 +77,7 @@ work:
     company_url: 'www.cryptotradingschool.io'
     #company_logo: ''
     #date_start: 2016-01-01
-    date_end: present
+    date_end: Present
     summary: |
       Responsibilities include:
       - Coding web application
