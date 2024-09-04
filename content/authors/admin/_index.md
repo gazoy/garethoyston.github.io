@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Gareth Oyston
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gareth John
+last_name: Oyston
 
 # Status emoji
 status:
@@ -20,92 +20,69 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Founder/Engineer/Educator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: International Physics Teacher
+    url: https://internationalphysicsteacher.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gaz@garethoyston.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://twitter.com/CTSsocialmedia
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Engineering
+  - Computer Science
+  - Education
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PGCE Secondary Education (Physics)
+    institution: University of Exeter
+    date_end: 2019-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Taught in top 2% and 10% schools
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Electrical Power Engineering
+    institution: University of Bath
+    date_end: 2020-08-31
     summary: |
-      GPA: 3.4/4.0
+      Project was on the Energy Hub theory applied to the universities campus
+
+  - area: BEng(hons) Electrical Power Systems Engineering
+    institution: Aston University
+    date_end: 2015-06-15
+    summary: |
+      grade: First class
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Physics teacher / tutor
+    company_names: Malvern College, EMG Education, and Freelance
+    #company_url: ''
+    #company_logo: ''
+    date_start: 2017-01-01
+    #date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Teaching KS3 Science/Maths and KS4/5 Physics
+    
+  - position: Founder
+    company_name: International Physics Teacher and Crypto Trading School
+    company_url: 'www.internationalphysicsteacher.com'
+    company_url: 'www.cryptotradingschool.io'
+    #company_logo: ''
+    #date_start: 2016-01-01
+    date_end: present
+    summary: |
+      Responsibilities include:
+      - Coding web application
+      - Marketing
+      - Content Creation
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,26 +105,22 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Exercise
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: dog
+      - name: Technology
         description: ''
         percent: 80
-        icon: camera
+        icon: computer
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +156,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gareth John Oyston is a founder, engineer and educator. His interests include EdTech, computing and programmable matter. He leads International Physics Teacher and Crypto Trading School, which educates masses, develops innovative indicators, and intends on innovating in EdTech.
