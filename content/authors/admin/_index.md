@@ -24,7 +24,7 @@ role: Founder/Engineer/Educator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: International Physics Teacher
+  - name: www.internationalphysicsteacher.com
     url: https://internationalphysicsteacher.com/
 
 # Social network links
