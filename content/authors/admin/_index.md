@@ -70,7 +70,7 @@ work:
     #date_end: Present
     summary: |
       Responsibilities include:
-      - Coding web application
+      - Coding Web Applications
       - Marketing
       - Content Creation
 
@@ -94,7 +94,7 @@ work:
     summary: |
       Responsibilities include:
       - Project / Risk / People management
-      - Fault finding / commissioning
+      - Fault finding / Commissioning
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
