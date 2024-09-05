@@ -155,7 +155,7 @@ awards:
     url: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
     #certificate_url: https://www.datacamp.com
     date: '2023-01-01'
-    #awarder: datacamp
+    awarder: Udemy
     icon: udemy
     summary: |
       Learnt cloud computer and how to pass the AWS cloud practitioner CLF-C02 exam.
