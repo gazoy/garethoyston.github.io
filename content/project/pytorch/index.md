@@ -1,11 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Crypto Trading School
+date: 2023-05-01
+external_link: https://cryptotradingschool.io
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Online Education
+  #- Wowchemy
+  #- Markdown
 ---
 
 PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
