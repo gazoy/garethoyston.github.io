@@ -102,7 +102,7 @@ work:
     summary: |
       Responsibilites include:
       - Risk / Position management
-      - Foundamental and Technical Analysis
+      - Fundamental and Technical Analysis
       - Research
 
 # Skills
