@@ -36,8 +36,6 @@ sections:
       subtitle: ''
       text: |-
         I can't sleep without trying to think of new ways that online education can be brought to the masses to make it more entertaining, innovative, accessible and affordable; while also hoping to improve the allround knowledge and wellbeing of humankind.
-        
-        Also, while awake I really enjoy applying technical analysis and researching the markets for some opportunistic trading opportunities, or trying out some novel algorithms.
 
         Please reach out for potential collaboration opportunities.
     design:
