@@ -139,7 +139,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-- title: 'Ultimate AWS Certified Cloud Practioner CLF-C02'
+  - title: 'Ultimate AWS Certified Cloud Practioner CLF-C02'
     url: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
     #certificate_url: https://www.datacamp.com
     date: '2023-01-01'
