@@ -83,6 +83,8 @@ work:
     summary: |
       Responsibilities include:
       - Teaching KS3 Science/Maths and KS4/5 Physics
+      - Form Teacher
+      - Head of House
   
   - position: Electrical Engineer
     company_name: Various clients
