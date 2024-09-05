@@ -23,7 +23,7 @@ abstract: This paper discusses the truimphs of online education as well as some 
 summary: The paper discusses the truimpbs of online eduaction.
 
 tags:
-- The triumphs of online education
+- Triumphs of online education
 
 featured: true
 
