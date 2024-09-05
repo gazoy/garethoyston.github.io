@@ -39,7 +39,7 @@ sections:
 
         I can't sleep without always trying to think of new ways that online education can be brought to the masses to generally make it more accessible and affordable, while hoping to improve the overall knowledge and wellbeing of humankind generally.
         
-        Please reach out for potential collaboration opportunities. 😃
+        Please reach out for potential collaboration opportunities.
     design:
       columns: '1'
   - block: collection
