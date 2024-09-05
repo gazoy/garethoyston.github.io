@@ -24,7 +24,7 @@ publishDate: '2024-09-05T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Gareth Oyston's* website
+publication: #In *Gareth Oyston's* website
 publication_short: #In *Gareth Oyston's website*
 
 abstract: The paper discusses the challenges that are faced by online education, as well as some of the ways that they can be overcome.
