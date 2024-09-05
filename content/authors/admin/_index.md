@@ -59,7 +59,7 @@ education:
     institution: Aston University
     date_end: 2015-06-15
     summary: |
-      grade: First class
+      Grade: First class
       
 work:
   - position: Founder
