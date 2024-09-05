@@ -139,7 +139,15 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: The Flask Mega-Tutorial (Python Web Development)
+  - title: 'Ultimate AWS Certified Cloud Practioner CLF-C02'
+    url: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
+    #certificate_url: https://www.datacamp.com
+    date: '2023-01-01'
+    #awarder: datacamp
+    icon: udemy
+    summary: |
+      Learnt cloud computer and how to pass the AWS cloud practitioner CLF-C02 exam.
+- title: The Flask Mega-Tutorial (Python Web Development)
     url: https://www.udemy.com/course/flask-mega-tutorial
     date: '2022-01-01'
     awarder: Udemy
@@ -156,14 +164,6 @@ awards:
       - Reinforcement Learning (B)
       - Human Computer Interaction (A)
       - Database Systems and Concepts (C)
-  - title: 'Ultimate AWS Certified Cloud Practioner CLF-C02'
-    url: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
-    #certificate_url: https://www.datacamp.com
-    date: '2023-01-01'
-    #awarder: datacamp
-    icon: udemy
-    summary: |
-      Learnt cloud computer and how to pass the AWS cloud practitioner CLF-C02 exam.
 ---
 
 ## About Me
