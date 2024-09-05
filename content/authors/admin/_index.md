@@ -40,6 +40,7 @@ interests:
   - Engineering
   - Computer Science
   - Education
+  - Trading
 
 education:
   - area: PGCE Secondary Education (Physics)
