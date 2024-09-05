@@ -1,5 +1,5 @@
 ---
-title: Learn how to Trade
+title: Learn Trading
 summary: Easily learn how to trade cryptocurrencies and traditional markets with Crypto Trading School!
 date: 2023-05-01
 type: docs
