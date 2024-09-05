@@ -61,16 +61,6 @@ education:
       grade: First class
       
 work:
-  - position: Physics teacher / tutor
-    company_names: Malvern College, EMG Education, and Freelance
-    #company_url: ''
-    #company_logo: ''
-    date_start: 2017-01-01
-    #date_end: ''
-    summary: |
-      Responsibilities include:
-      - Teaching KS3 Science/Maths and KS4/5 Physics
-    
   - position: Founder
     company_name: International Physics Teacher and Crypto Trading School
     company_url: 'www.internationalphysicsteacher.com'
@@ -83,6 +73,16 @@ work:
       - Coding web application
       - Marketing
       - Content Creation
+
+  - position: Physics teacher / tutor
+    company_names: Malvern College, EMG Education, and Freelance
+    #company_url: ''
+    #company_logo: ''
+    date_start: 2017-01-01
+    #date_end: ''
+    summary: |
+      Responsibilities include:
+      - Teaching KS3 Science/Maths and KS4/5 Physics
   
   - position: Electrical Engineer
     company_name: Various clients
