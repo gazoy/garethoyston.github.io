@@ -150,7 +150,7 @@ awards:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: Goergia Institute of Technology
-    icon: edx
+    icon: gatech
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
