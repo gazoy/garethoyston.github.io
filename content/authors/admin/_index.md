@@ -74,7 +74,7 @@ work:
       - Marketing
       - Content Creation
 
-  - position: Physics teacher / tutor
+  - position: Physics Teacher / Tutor
     company_names: Malvern College, EMG Education, and Freelance
     #company_url: ''
     #company_logo: ''
