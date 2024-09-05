@@ -8,6 +8,6 @@ tags:
   #- Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Fun and market leading online Physics educational website catered for English as a second language students, covering the curriculum requirements for iGCSE, A-Level and IB courses by the relevant educational bodies (CIE, EdExcel, et al.).
 
 <!--more-->
