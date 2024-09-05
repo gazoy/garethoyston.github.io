@@ -75,7 +75,7 @@ work:
       - Content Creation
 
   - position: Physics Teacher / Tutor
-    company_names: Malvern College, EMG Education, and Freelance
+    company_names: Various
     #company_url: ''
     #company_logo: ''
     date_start: 2017-01-01
@@ -95,6 +95,16 @@ work:
       Responsibilities include:
       - Project / Risk / People management
       - Fault finding / Commissioning
+  
+  - position: Trading
+    company_name: Freelance
+    date_start: 2008-06-01
+    summary: |
+      Responsibilites include:
+      - Risk management
+      - Foundamental and Technical Analysis
+      - Position Management
+      - Research
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
