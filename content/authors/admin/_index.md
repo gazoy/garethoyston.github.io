@@ -145,9 +145,9 @@ awards:
     awarder: Udemy
     icon: udemy
     summary: |
-      I studied the how to write web applications using Flask and Python and developed my first operational education website using the theory.
+      How to write web applications using Flask and Python and developed my first operational education website using the theory.
   - title: Reinforcement Learning, Database Systems and Concepts, and Human Computer Interaction
-    url: https://omscs.gatech.edu/
+    url: https://omscs.gatech.edu
     date: '2021-01-01'
     awarder: Goergia Institute of Technology
     icon: gatech
@@ -156,14 +156,14 @@ awards:
       - Reinforcement Learning (B)
       - Human Computer Interaction (A)
       - Database Systems and Concepts (C)
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+  - title: 'Ultimate AWS Certified Cloud Practioner CLF-C02'
+    url: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
+    #certificate_url: https://www.datacamp.com
+    date: '2023-01-01'
+    #awarder: datacamp
+    icon: udemy
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Learnt cloud computer and how to pass the AWS cloud practitioner CLF-C02 exam.
 ---
 
 ## About Me
