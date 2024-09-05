@@ -101,9 +101,8 @@ work:
     date_start: 2008-06-01
     summary: |
       Responsibilites include:
-      - Risk management
+      - Risk / Position management
       - Foundamental and Technical Analysis
-      - Position Management
       - Research
 
 # Skills
