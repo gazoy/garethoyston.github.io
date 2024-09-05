@@ -1,11 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: International Physics Teacher
+date: 2024-09-01
+external_link: https://internationalphysicsteacher.com
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Online Education
+  #- Wowchemy
+  #- Markdown
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
