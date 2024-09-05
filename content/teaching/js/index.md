@@ -1,6 +1,6 @@
 ---
 title: Learn Physics
-summary: Learn iGCSE, A-Level and IB Phyics easily and ace your exams with International Physics Teacher!
+summary: Learn iGCSE, A-Level and IB Phyics with English as a second language easily, and ace your exams with International Physics Teacher!
 date: 2024-09-01
 type: docs
 math: false
