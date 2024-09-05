@@ -37,7 +37,7 @@ sections:
       text: |-
         I'm a founder, engineer, trader and educator. I research/work in these areas while also creating content for my founding buisnesses.
 
-        Apart from work, I'm always trying to think of new ways that online education can be brought to the masses to generally make education more accessible, as well as improving the overall knowledge and wellbeing of humankind generally.
+        I can't sleep without always trying to think of new ways that online education can be brought to the masses to generally make it more accessible and affordable, while hoping to improve the overall knowledge and wellbeing of humankind generally.
         
         Please reach out for potential collaboration opportunities. 😃
     design:
