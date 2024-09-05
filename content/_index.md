@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 Work'
+      title: 'Work'
       subtitle: ''
       text: |-
         I can't sleep without always trying to think of new ways that online education can be brought to the masses to generally make it more accessible and affordable, while hoping to improve the overall knowledge and wellbeing of humankind generally.
