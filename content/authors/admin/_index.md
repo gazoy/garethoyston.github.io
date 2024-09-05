@@ -162,7 +162,7 @@ awards:
     awarder: Udemy
     icon: udemy
     summary: |
-      How to write web applications using Flask and Python and developed my first operational education website using the theory.
+      How to write web applications using Flask and Python.
   - title: Reinforcement Learning, Database Systems and Concepts, and Human Computer Interaction
     url: https://omscs.gatech.edu
     date: '2021-01-01'
