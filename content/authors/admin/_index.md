@@ -75,7 +75,7 @@ work:
       - Content Creation
 
   - position: Physics Teacher / Tutor
-    company_name: Various
+    company_name: Various clients
     #company_url: ''
     #company_logo: ''
     date_start: 2017-01-01
