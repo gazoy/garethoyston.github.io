@@ -1,5 +1,5 @@
 ---
-title: 'The challenges of online education'
+title: 'The Challenges of Online Education'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,8 +9,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  #- 'Equal contribution'
+  #- 'Equal contribution'
 
 date: '2024-04-01T00:00:00Z'
 doi: ''
@@ -33,7 +33,7 @@ abstract: The paper discusses the challenges that are faced by online education,
 summary: This paper discusses the challenges of educating online.
 
 tags:
-  - Challenges of online education
+  - Challenges of Online Education
 
 # Display this page in the Featured widget?
 featured: true
