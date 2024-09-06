@@ -1,5 +1,5 @@
 ---
-title: "Coming soon"
+title: "Coming Soon"
 authors:
 - Gareth Oyston
 #- Robert Ford
