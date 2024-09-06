@@ -20,20 +20,6 @@ Here is an example of some of the content that you can find on our website over 
 
 {{< youtube D2vj0WcvH5c >}}
 
-#**Youtube**:
-#
-#    {{</* youtube w7Ft2ymGmfc */>}}
-#
-#**Bilibili**:
-
-#    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-#**Video file**
-
-#Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/#content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-#    {{</* video src="my_video.mp4" controls="yes" */>}}
-
 ## Social Media
 
 You can check us out and join our trading community over on X (formally twitter)  [CTS Social Media](https://x.com/CTSsocialmedia).
