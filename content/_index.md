@@ -43,7 +43,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Topics
+      title: Papers
       filters:
         folders:
           - publication
