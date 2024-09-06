@@ -24,5 +24,4 @@ Here is an example of some of the content that you can find on our website over 
 
 You can check us out and join our trading community over on X (formally twitter)  [CTS Social Media](https://x.com/CTSsocialmedia).
 
-
 ## Go and check out the best educational trading website on the market!
