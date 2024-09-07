@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Gareth John Oyston is a founder, engineer and educator. His interests include education, computing and general engineering. He founded International Physics Teacher and Crypto Trading School to effectively help educate masses, while developing/researching novel indicators/models/algorithms, and attempting to find new ways to innovate in the area of EdTech.
+Gareth John Oyston is a founder, engineer, educator, and trader. His interests include education, computing and general engineering. He founded International Physics Teacher and Crypto Trading School to effectively help educate masses, while developing/researching novel indicators/models/algorithms, and attempting to find new ways to innovate in the area of EdTech.
