@@ -158,7 +158,7 @@ awards:
     awarder: Udemy
     icon: udemy
     summary: |
-      Learnt cloud computer and how to pass the AWS cloud practitioner CLF-C02 exam.
+      Learnt cloud computing and how to pass the AWS cloud practitioner CLF-C02 exam.
   - title: The Flask Mega-Tutorial (Python Web Development)
     url: https://www.udemy.com/course/flask-mega-tutorial
     date: '2022-01-01'
