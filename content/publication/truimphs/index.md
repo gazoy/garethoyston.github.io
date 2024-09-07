@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: This paper discusses the truimphs of online education as well as some of the means to achieve them.
+abstract: This paper discusses the truimphs of online education as well as some of the means to that can be undertaken to help achieve them.
 
 # Summary. An optional shortened abstract.
-summary: The paper discusses the truimpbs of online eduaction.
+summary: The paper discusses the truimphs of online eduaction.
 
 tags:
 - Triumphs of online education
