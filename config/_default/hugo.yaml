@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Gareth Oyston CV
+title: Gareth Oyston
 # Website URL
 baseURL: 'https://garethoyston.github.io/'
 
